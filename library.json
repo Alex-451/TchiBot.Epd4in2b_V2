@@ -8,20 +8,5 @@
       "type": "git",
       "url": "https://github.com/Alex-451/TchiBot.Epd4in2b_V2.git"
     },
-    "authors":
-    [
-      {
-        "name": "Waveshare",
-        "url": "git@github.com:waveshare/e-Paper.git"
-      },
-      {
-        "name": "Alex-451",
-        "url": "https://github.com/Alex-451",
-        "maintainer": true
-      }
-    ],
-    "license": "GPL-3.0",
-    "homepage": "https://github.com/Alex-451/TchiBot.Epd4in2b_V2",
-    "frameworks": "*",
-    "platforms": "*"
+    "license": "GPL-3.0"
   }
