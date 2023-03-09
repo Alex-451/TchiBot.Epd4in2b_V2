@@ -2,7 +2,7 @@
     "name": "TchiBot.Epd4in2b_V2 ",
     "version": "1.0.0",
     "description": "This is a copy of the Waveshare library with a few minor edits for the 4.2inch e-Paper Module and only exists so I can easily import the library using PlatformIO",
-    "keywords": "planet, happiness, people",
+    "keywords": "ESP8266, E-paper, Waveshare",
     "repository":
     {
       "type": "git",
